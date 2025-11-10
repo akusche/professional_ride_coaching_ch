@@ -1,0 +1,11 @@
+#main {
+	position: absolute;
+	width:80em;
+	left:50%;
+	margin-left:-40em;
+}
+/* Four columns side by side */
+.column {
+  float: left;
+  width: 25%;
+}
