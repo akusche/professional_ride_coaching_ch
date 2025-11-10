@@ -34,6 +34,7 @@ legend {
 /* Hide the images by default */
 .mySlidesTop {
     display: none;
+    margin-top: 65px;
 }
 
 /* Next & previous buttons */
