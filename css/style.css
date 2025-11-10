@@ -242,7 +242,8 @@ body {
 	position: absolute;
 	text-align: justify;
 	margin-left: 5px;
-	padding-right: 5px;	
+	padding-right: 5px;
+  margin-top: -30px;	
 }
 #leiste {
 	background-color:#333;
