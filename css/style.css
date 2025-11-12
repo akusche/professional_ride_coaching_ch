@@ -37,6 +37,10 @@ legend {
     margin-top: 65px;
 }
 
+.mySlidesTop img {
+  min-height: 200px;
+}
+
 /* Next & previous buttons */
 .prevTop, .nextTop {
   cursor: pointer;
